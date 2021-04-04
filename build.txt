@@ -1,0 +1,3 @@
+displayName = Maclow's Mod
+author = Maclow
+version = 0.1
